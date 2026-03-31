@@ -1,4 +1,3 @@
-require('dotenv').config()
 process.env.JWT_SECRET = 'test-secret-for-auth-tests-that-is-at-least-32-chars'
 process.env.NODE_ENV = 'test'
 
