@@ -1,0 +1,10 @@
+node_modules
+**/node_modules
+**/coverage
+**/.env
+**/.env.local
+**/dist
+**/build
+.git
+.github
+*.md
